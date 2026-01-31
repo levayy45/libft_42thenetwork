@@ -59,7 +59,7 @@ Include the header in your C files:
 
 Compile your program with the library:
 ```bash
-gcc your_program.c -L. -lft -o your_program
+cc main.c libft.a
 ```
 
 ## Makefile Rules
