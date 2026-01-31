@@ -40,7 +40,7 @@ Useful functions not in the standard library:
 Clone the repository:
 ```bash
 git clone https://github.com/levayy45/libft_42thenetwork.git
-cd libft
+cd libft_42thenetwork
 ```
 
 Compile the library:
