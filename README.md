@@ -39,7 +39,7 @@ Useful functions not in the standard library:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/libft.git
+git clone https://github.com/levayy45/libft_42thenetwork.git
 cd libft
 ```
 
@@ -59,7 +59,7 @@ Include the header in your C files:
 
 Compile your program with the library:
 ```bash
-cc main.c libft.a
+cc your_program.c libft.a
 ```
 
 ## Makefile Rules
